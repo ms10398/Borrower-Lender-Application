@@ -2,7 +2,11 @@
 
 - Clone this repo or Download the zip
 
-- Run `npm install'
+- Go in to the Directory
+
+- Run `npm install`
+
+- Run the server using `npm start`
 
 - Visit `localhost:3000/borrower/signup` for signing up borrower.
 
